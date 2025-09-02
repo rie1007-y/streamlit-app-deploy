@@ -43,4 +43,4 @@ if st.button("実行"):
 
         else:
             st.error("身長と体重をどちらも入力してください。")
-            
+            #test
